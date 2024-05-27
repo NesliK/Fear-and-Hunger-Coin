@@ -1,5 +1,5 @@
-# tymora-coin
+# Fear and Hunger Coin
 
-This module is an example of how to add a set of custom coin faces to the Dice So Nice module for FoundryVTT.
+This module changes the Dice So Nice coin image for FoundryVTT.
 
-Made for https://old.reddit.com/r/FoundryVTT/comments/vga3bf/any_way_to_customise_the_coinflip_dc_roll/
+Made using Tymora Coin, which was made for https://old.reddit.com/r/FoundryVTT/comments/vga3bf/any_way_to_customise_the_coinflip_dc_roll/
